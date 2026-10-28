@@ -1,0 +1,8 @@
+{
+ "v": 1,
+ "alg": "PBKDF2-SHA256/AES-256-GCM",
+ "n": 1200000,
+ "s": "Wssyo853Aglz9cP2YHLLPQ==",
+ "i": "V6xKNOa2AaGH6Von",
+ "c": "w/9AFKgu/RCSZrZfEe2pUIZ1ZFDnc5Mytxs7RxsRE1+eYU3J8zUgMFd9mWt4qaTqWaKfub5p/EeF30ZdWafhmDIJZdrFie3ZZzo8rWiUazhma+eU62AO1jUhwgD5p7YdCTGu3odtIfL7+ifXxYTury7F6y8zlIFnS3G+"
+}
